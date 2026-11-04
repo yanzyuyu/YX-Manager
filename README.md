@@ -3,7 +3,7 @@
 Root-based Android Kernel & Hardware Performance Manager built with Jetpack Compose.
 
 <p align="center">
-  <a href="https://github.com/yanzyuyu/YX-Manager/releases/latest"><img src="https://img.shields.io/badge/release-v1.0.1-0969da?logo=github&logoColor=white" alt="Release" /></a>
+  <a href="https://github.com/yanzyuyu/YX-Manager/releases/latest"><img src="https://img.shields.io/badge/release-v1.0.2-0969da?logo=github&logoColor=white" alt="Release" /></a>
   <a href="#"><img src="https://img.shields.io/badge/android-8.0%2B%20(API%2026%2B)-3DDC84?logo=android&logoColor=white" alt="Android" /></a>
   <a href="#"><img src="https://img.shields.io/badge/access-root%20(UID%200)-critical" alt="Root Access" /></a>
   <a href="#"><img src="https://img.shields.io/badge/ui-jetpack%20compose-4285F4?logo=jetpackcompose&logoColor=white" alt="UI" /></a>
